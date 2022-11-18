@@ -1,0 +1,5 @@
+Process BurstTime
+P1	6
+P2 	8
+P3	7
+P4	3
